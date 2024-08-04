@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Ethan Schoen
+- 👀 I’m interested in Software Development, Product Management, and Data Science
+- 🌱 I’m currently learning Deep Learning, Recommendation Systems, Algorithm Optimization, Mobile App Development, Managing AI/ML Products, Web Scraping, and Game Design
+- 💞️ I’m looking to collaborate on projects that improve quality of life of local communities 
+- 📫 How to reach me: ethanparkerschoen@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am currently learning how to play guitar because I don't like being bad at things
